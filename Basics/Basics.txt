@@ -1,0 +1,7 @@
+1. To Make Edges thick use Dialation function:
+	cv2.dialate(image, kernal , iterations= value)
+	more value more thickness
+
+2. To Make Thin use erode function:
+	cv2.erode(image, kernal , iterations= value)
+	more value more thickness
