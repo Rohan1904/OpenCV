@@ -1,0 +1,8 @@
+
+1 . TO get Actual size of Image use Function 
+	[  img.shape ] no braces // use in print() to get size
+
+
+2. To resize image  use function
+		
+	img =	cv2.resize(img ,(width,height))
